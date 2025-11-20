@@ -1,5 +1,5 @@
 # Welcome message for the quiz
-print("Welcome to the Pub Quiz!")
+print("Welcome to the Alex's Pub Quiz!")
 
 # List of questions, options, and answers
 quiz_questions = [
